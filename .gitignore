@@ -1,0 +1,15 @@
+# IDEs and editors
+.idea
+/.idea
+.project
+*.sublime-workspace
+build
+
+# IDE - VSCode
+.vscode/*
+!.vscode/launch.json
+
+# System Files
+.DS_Store
+Thumbs.db
+/Restaurant-Billing/nbproject/private/
